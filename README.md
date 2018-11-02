@@ -15,7 +15,7 @@ You'll need a working [Node.js](https://nodejs.org/en/) and
 [npm](https://www.npmjs.com/) setup to run local tests. You'll also want to
 [clone the project](https://help.github.com/articles/cloning-a-repository/). 
 
-You can start the app with:
+You can start the app with:hello
 ```sh-session
 $ node -e 'app = require("./lib/app"); app.start()'
 ```
