@@ -4,7 +4,7 @@ This is an example application written in Node.js for
 introducing users to basic features of Travis CI. It's based
 off of the self-driven demo, [
 travis-ci/travis-intro-node](https://github.com/travis-ci/travis-intro-node).
-
+overrride default to xenial test
 ## Welcome to Travis CI!
 We're going to learn how to create a project on Travis CI, 
 add testing and deployment configurations, and then try out 
