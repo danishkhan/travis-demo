@@ -8,7 +8,7 @@ travis-ci/travis-intro-node](https://github.com/travis-ci/travis-intro-node).
 ## Welcome to Travis CI!
 We're going to learn how to create a project on Travis CI, 
 add testing and deployment configurations, and then try out 
-some new Travis CI features. 
+some new Travis CI features. hello
 
 ### Step 1: Clone this Project and Look Around
 You'll need a working [Node.js](https://nodejs.org/en/) and
